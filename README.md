@@ -1,4 +1,4 @@
-## Hi, I’m Rene 👋
+## Hi, I’m Rhom 👋
 
 I’m an **Aspiring Data Analyst** with a strong foundation in data analysis, visualization, and problem-solving.  
 I work with structured and real-world datasets to extract insights, identify trends, and support data-driven decision-making through clear and actionable analysis.
